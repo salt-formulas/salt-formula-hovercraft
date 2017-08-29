@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: salt-formula-sphinx
+Upstream-Name: salt-formula-hovercraft
 Upstream-Contact: 
-Source: https://github.com/tcpcloud/salt-formula-sphinx
+Source: https://github.com/salt-formulas/salt-formula-hovercraft
 
 Files: *
 Copyright: 2014-2015 tcp cloud a.s.

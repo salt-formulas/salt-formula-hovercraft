@@ -10,6 +10,18 @@ Sample pillars
 
 Simple documentation with local source
 
+.. code-block:: yaml
+parameters:
+  hovercraft:
+    server:
+      slides:
+        name_of_slides:
+          builder: html
+          path: source
+          source: 
+            engine: git
+            address: git_address
+            rev: master
 
 Read more
 =========
