@@ -1,7 +1,7 @@
 
-==========
-Hovercraft
-==========
+==================
+hovercraft-formula
+==================
 
 Hovercraft’s power comes from the combination of reStructuredText’s convenience with the cool of impress.js, together with a flexible and powerful solution to position the slides.
 
