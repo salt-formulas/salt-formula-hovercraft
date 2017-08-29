@@ -1,0 +1,11 @@
+parameters:
+  hovercraft:
+    server:
+      slides:
+        cloud_monitoring_slides:
+          builder: html
+          path: source
+          source: 
+            engine: git
+            address: git@git.3ad.eu:hovercraft-slides/slides-cloud-monitoring.git
+            rev: master

@@ -1,0 +1,11 @@
+parameters:
+  hovercraft:
+    _support:
+      collectd:
+        enabled: false
+      heka:
+        enabled: false
+      sensu:
+        enabled: false
+      hovercraft:
+        enabled: true

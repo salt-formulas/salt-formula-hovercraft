@@ -1,0 +1,8 @@
+applications:
+- hovercraft
+classes:
+- service.hovercraft.support
+parameters:
+  hovercraft:
+    server:
+      enabled: true
