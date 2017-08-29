@@ -1,0 +1,8 @@
+{%- set server = pillar.hovercraft.server %}
+slides:
+  name: Sphinx
+  description: Hovercraft! is a tool to make impress.js presentations from reStructuredText.
+  documentation: https://hovercraft.readthedocs.io/en/latest/
+  role:
+    server:
+      name: server

@@ -1,0 +1,11 @@
+
+{%- load_yaml as server_common %}
+default:
+  pkgs:
+  - python3-pip
+  - python3-virtualenv
+  - python3-dev
+  slides: {}
+{%- endload %}
+
+{% set server = salt['grains.filter_by'](server_common, merge=salt['pillar.get']('hovercraft:server')) %}
